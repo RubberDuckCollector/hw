@@ -1,3 +1,1 @@
-{"teacher": "miss arnold", "due date": "Friday 02 December 2022", "desc": "concurrency (what is it? a real world example and a technology example) complete ALL exercises on page 276"}
-{"teacher": "miss arnold", "due date": "Thursday 08 December 2022", "desc": "mini assessment on recursion, parameter passing by value and reference, global and local variables, and abstraction"}
-{"teacher": "miss arnold", "due date": "Friday 09 December 2022", "desc": "glossary table (USE TEXTBOOK)"}
+
