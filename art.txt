@@ -1,0 +1,2 @@
+{"teacher": "mr aitken", "due date": "Wednesday 14 December 2022", "desc": "remix deadline (need to do image with cateline and textbook front cover)"}
+{"teacher": "mr aitken", "due date": "Wednesday 14 December 2022", "desc": "write artist analysis on amora b for remix project"}
