@@ -1,3 +1,1 @@
-{"teacher": "mr twinn", "due date": "Wednesday 30 November 2022", "desc": "page 73 exercises 3 and 4"}
-{"teacher": "mr twinn", "due date": "Wednesday 30 November 2022", "desc": "period 4 listening CA + 8 translations into spanish"}
-{"teacher": "mr twinn", "due date": "Friday 02 December 2022", "desc": "translation and listening (on gateway)"}
+
